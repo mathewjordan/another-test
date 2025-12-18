@@ -4,5 +4,5 @@ featured:
   - https://iiif.io/api/cookbook/recipe/0032-collection/manifest-01.json
 theme:
   appearance: dark
-  accentColor: crimson
+  accentColor: red
   grayColor: gray
